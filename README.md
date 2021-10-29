@@ -1,1 +1,5 @@
-# -G1-ITI_proj-Restaurants-Dashboard
+# Team Members:
+
+### Ibrahim Mohamed G1
+### Amr Atef G1
+## ITI-AI-Pro
